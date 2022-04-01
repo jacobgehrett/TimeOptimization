@@ -1,0 +1,32 @@
+Optimal - objective value 232.72
+After Postsolve, objective 232.72, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 232.72 - 3 iterations time 0.002, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.00   (Wallclock seconds):       0.00
+
+Optimal
+6.0 hrs sleep
+0.5 hrs shower
+1.0 hrs changing
+0.5 hrs eating breakfast
+0.5 hrs eating lunch
+0.5 hrs eating dinner
+5.0 hrs climbing
+3.0 hrs watching movies
+4.0 hrs playing video games
+0.0 hrs playing card games
+0.25 hrs walking dog
+1.59 hrs watching tv
+0.5 hrs cuddling
+0.0 hrs golfing
+0.66 hrs driving
+0.0 hrs joyriding
+1.0 hrs at restaurant
+0.0 hrs in hammock
+0.0 hrs playing Frisbee
+0.25 hrs at the park
+12.0 hrs with friends
+0.0 hrs swimming
+0.0 hrs doing nothing
+0.0 hrs on a date
+0.0 hrs reading
